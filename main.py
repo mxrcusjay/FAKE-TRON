@@ -2,7 +2,8 @@
 ''' 
 sources: 
 https://pythonroom.com/
-Mr. Cozort 
+Mr. Cozort (mostly)
+https://pythonprogramming.net/pygame-start-menu-tutorial/
 https://pythonprogramming.net/pygame-start-menu-tutorial/
 
 **********Gameplay ideas:
